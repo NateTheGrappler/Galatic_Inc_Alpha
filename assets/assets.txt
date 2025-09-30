@@ -1,0 +1,203 @@
+Texture   IdleSquidTex      assets/textures/IdleSquid.png
+Texture   JumpSquidTex		assets/textures/squidJump.png
+Texture   ShootSquidTex		assets/textures/squidShoot.png
+Texture   ShootVertText		assets/textures/squidShootVert.png
+Texture   SquidRotateTex	assets/textures/squidRotate.png
+Texture   RunSquidTex		assets/textures/squidRun2.png
+Texture   DiedSquidText		assets/textures/squidDied.png
+Texture   HurtSquidText		assets/textures/squidHurt.png
+Texture   HitSquidText		assets/textures/squidHit.png
+Texture   InkBallHori		assets/textures/InkBall2Hori.png
+Texture   InkBallHitHori	assets/textures/InkBall2HoriHit.png
+Texture   InkBallVerti      assets/textures/InkBall2Verti.png
+Texture   InkBallHitVerti   assets/textures/InkBall2vertiHit.png
+Texture   tentacleIdle      assets/textures/tentacleIdle.png
+Texture   tentacleDied      assets/textures/tentacleDied.png
+Texture   SquidPushIdle     assets/textures/SquidPushIdle.png
+Texture   SquidPushWalk     assets/textures/SquidPushWalk.png
+Texture   SquidHoldIdle     assets/textures/SquidHoldIdle.png
+Texture   SquidHoldWalk     assets/textures/SquidHoldWalk.png
+Texture   SquidHoldJump     assets/textures/SquidHoldJump.png
+Texture   SquidHoldBox      assets/textures/SquidHoldBox.png
+
+Texture   BlockFallingP     assets/textures/BlockFallingParticle.png
+Texture   JumpParticle      assets/textures/JumpParticle.png
+
+Texture   TallMushroomIdle  assets/textures/TallMushroomIdle.png
+Texture   TallMushroomHurt  assets/textures/TallMushroomHurt.png
+Texture   TallMushroomDead  assets/textures/tallMushroomDeath.png
+Texture   spinShroomIdle    assets/textures/spinShroomIdle.png
+Texture   spinShroomHurt    assets/textures/spinShroomBackNFortht.png
+Texture   spinShroomAttack  assets/textures/spinAttack.png
+Texture   spinShroomDeath   assets/textures/spinShroomDeath.png
+Texture   spinShroomWalk   assets/textures/spinWalk.png
+
+
+Texture   alienRocksTex		assets/textures/alienRocks.png
+Texture   purpleSteelTex	assets/textures/purpleSteel.png
+Texture   alienDirtTex		assets/textures/alienDirt.png
+Texture   alienEgg			assets/textures/EggSprite.png
+Texture   moonTex			assets/textures/moonDecoration.png
+Texture   planetText		assets/textures/purpleWorldDecoration.png
+Texture   pointSign			assets/textures/FlyingArrowFutureSign.png
+Texture   pointSignUP		assets/textures/FlyingArrowFutureUpSign.png
+Texture   lvl1BG			assets/textures/squidPlanetBackGround.png
+
+Texture   VenusDirt			assets/textures/VenusDirt.png
+Texture   VenusDirtR		assets/textures/VenusDirtR.png
+Texture   VenusDirtL		assets/textures/VenusDirtL.png
+Texture   VenusDirtMR		assets/textures/VenusDirtMR.png
+Texture   VenusDirtML		assets/textures/VenusDirtML.png
+Texture   VenusDirtM		assets/textures/VenusDirtM.png
+Texture   VenusDirtSM		assets/textures/VenusDirtSM.png
+Texture   VenusDirtSR		assets/textures/VenusDirtSR.png
+Texture   VenusDirtSL		assets/textures/VenusDirtSL.png
+Texture   VenusDirtB		assets/textures/VenusDirtB.png
+Texture   VenusDirtLL		assets/textures/VenusDirtLL.png
+Texture   VenusDirtLR		assets/textures/VenusDirtLR.png
+Texture   VenusBackground   assets/textures/VenusBackGround.png
+Texture   VenusMoveAble     assets/textures/VenusMoveAble.png
+
+Texture   MercuryTR			assets/textures/MercuryTR.png
+Texture   MercuryTM		    assets/textures/MercuryTM.png
+Texture   MercuryTL		    assets/textures/MercuryTL.png
+Texture   MercuryML		    assets/textures/MercuryML.png
+Texture   MercuryMM		    assets/textures/MercuryMM.png
+Texture   MercuryMR		    assets/textures/MercuryMR.png
+Texture   MercuryBL		    assets/textures/MercuryBL.png
+Texture   MercuryBM		    assets/textures/MercuryBM.png
+Texture   MercuryBR		    assets/textures/MercuryBR.png
+Texture   MercuryInnerTR	assets/textures/MercuryInnerTR.png
+Texture   MercuryInnerTM	assets/textures/MercuryInnerTM.png
+Texture   MercuryInnerTL	assets/textures/MercuryInnerTL.png
+Texture   MercuryInnerML	assets/textures/MercuryInnerML.png
+Texture   MercuryInnerMR	assets/textures/MercuryInnerMR.png
+Texture   MercuryInnerBL	assets/textures/MercuryInnerBL.png
+Texture   MercuryInnerBM	assets/textures/MercuryInnerBM.png
+Texture   MercuryInnerBR	assets/textures/MercuryInnerBR.png
+Texture   MercurySingleF	assets/textures/MercurySingleF.png
+Texture   MercurySingleL	assets/textures/MercurySingleL.png
+Texture   MercurySingleM	assets/textures/MercurySingleM.png
+Texture   MercurySingleR	assets/textures/MercurySingleR.png
+Texture   MercuryBackground assets/textures/MercuryBackground.png
+
+
+
+Texture   MainMenuBG		assets/textures/mainMenuBG.png
+Texture   TitleText 		assets/textures/GalacticInkTitle.png
+Texture   ShipIdle          assets/textures/spaceShipIdle.png
+Texture   ShipIdleLarge     assets/textures/spaceShipIdleLarge.png
+Texture   ShipBeamDown      assets/textures/spaceShipBeamDown.png
+Texture   ShipBeamDownL     assets/textures/spaceShipBeamDownLarge.png
+
+
+Texture   wKey				assets/textures/KeyW.png
+Texture   aKey				assets/textures/KeyA.png
+Texture   sKey				assets/textures/KeyS.png
+Texture   dKey				assets/textures/KeyD.png
+Texture   LShiftKey			assets/textures/ShiftLKey.png
+Texture   RightClick		assets/textures/MouseRightClick.png
+Texture   LeftClick			assets/textures/MouseLeftClick.png
+
+Animation Stand            IdleSquidTex		  2    35
+Animation Jump             JumpSquidTex		  4    2
+Animation Shoot            ShootSquidTex	  5    5
+Animation JumpShoot        ShootVertText	  7    2
+Animation JumpSpin         SquidRotateTex	  7    5
+Animation Run              RunSquidTex		  6    10
+Animation Died             DiedSquidText	  8    10
+Animation Hurt             HurtSquidText	  4    10
+Animation Hit              HitSquidText		  6    5
+Animation InkBallFlyH      InkBallHori		  4    12
+Animation InkBallHitH      InkBallHitHori	  4    5
+Animation InkBallFlyV      InkBallVerti		  4    12
+Animation InkBallHitV      InkBallHitVerti	  4    5
+Animation tentaIdle        tentacleIdle       3    30
+Animation tentaDied        tentacleDied       7    15
+Animation SquidPushIdle    SquidPushIdle      2    15
+Animation SquidPushWalk    SquidPushWalk      3    5
+Animation SquidHoldIdle    SquidHoldIdle      2    15
+Animation SquidHoldWalk    SquidHoldWalk      3    5
+Animation SquidHoldJump    SquidHoldJump      3    5
+Animation SquidHoldBox     SquidHoldBox       2    35
+
+Animation BlockFallingP    BlockFallingP      4    5
+Animation JumpParticle     JumpParticle       5    8
+
+Animation TallIdleSleep    TallMushroomIdle   6    60
+Animation TallHurt         TallMushroomHurt   7    7
+Animation TallDeath        TallMushroomDead   6    30
+Animation spinIdle         spinShroomIdle     2    35
+Animation spinHurt         spinShroomHurt     22   3
+Animation spinAttack       spinShroomAttack    5   5
+Animation spinDeath        spinShroomDeath     5   20
+Animation spinWalk         spinShroomWalk      7   8
+
+Animation Dirt             alienDirtTex		  1    0
+Animation Rock             alienRocksTex      1    0
+Animation PSteel           purpleSteelTex     1    0
+Animation Egg              alienEgg           4    20
+Animation Moon_Haunts_You  moonTex            1    0
+Animation planet           planetText         1    0
+Animation pointSign        pointSign          4    15
+Animation pointSignUp      pointSignUP        4    15
+Animation lvl1BG           lvl1BG             1    0
+
+Animation VenusDirt        VenusDirt		  1    0
+Animation VenusDirtR       VenusDirtR         1    0
+Animation VenusDirtL       VenusDirtL         1    0
+Animation VenusDirtMR      VenusDirtMR        1    0
+Animation VenusDirtML	   VenusDirtML        1    0
+Animation VenusDirtM	   VenusDirtM         1    0
+Animation VenusDirtSM      VenusDirtSM        1    0
+Animation VenusDirtSR	   VenusDirtSR        1    0
+Animation VenusDirtSL	   VenusDirtSL        1    0
+Animation VenusDirtB	   VenusDirtB         1    0
+Animation VenusDirtLL	   VenusDirtLL        1    0
+Animation VenusDirtLR	   VenusDirtLR        1    0
+Animation VenusBG          VenusBackground    1    0
+Animation VenusMoveAble    VenusMoveAble      1    0
+
+Animation MercuryTR        MercuryTR		  1    0
+Animation MercuryTM        MercuryTM          1    0
+Animation MercuryTL        MercuryTL          1    0
+Animation MercuryML        MercuryML          1    0
+Animation MercuryMM	       MercuryMM          1    0
+Animation MercuryMR	       MercuryMR          1    0
+Animation MercuryBL        MercuryBL          1    0
+Animation MercuryBM	       MercuryBM          1    0
+Animation MercuryBR	       MercuryBR          1    0
+Animation MercuryInnerTR   MercuryInnerTR	  1    0
+Animation MercuryInnerTM   MercuryInnerTM     1    0
+Animation MercuryInnerTL   MercuryInnerTL     1    0
+Animation MercuryInnerML   MercuryInnerML     1    0
+Animation MercuryInnerMR   MercuryInnerMR     1    0
+Animation MercuryInnerBL   MercuryInnerBL     1    0
+Animation MercuryInnerBM   MercuryInnerBM     1    0
+Animation MercuryInnerBR   MercuryInnerBR     1    0
+Animation MercurySingleF   MercurySingleF     1    0
+Animation MercurySingleL   MercurySingleL     1    0
+Animation MercurySingleM   MercurySingleM     1    0
+Animation MercurySingleR   MercurySingleR     1    0
+Animation MercuryBG        MercuryBackground  1    0
+
+Animation MainMenuBG       MainMenuBG         1    0
+Animation Title            TitleText          1    0
+Animation ShipIdle         ShipIdle           4    25
+Animation ShipIdleLarge    ShipIdleLarge      4    25
+Animation ShipBeamDown     ShipBeamDown       8    35
+Animation ShipBeamDownL    ShipBeamDownL      8    35
+
+
+
+Animation KeyW             wKey               2    40
+Animation KeyA             aKey               2    40
+Animation KeyS             sKey               2    40
+Animation KeyD             dKey               2    55
+Animation ShiftKey         LShiftKey          2    40
+Animation RightClick       RightClick         2    40
+Animation LeftClick        LeftClick          2    40
+
+Font      GridFont         assets\fonts\arialnarrow.ttf
+Font      retroFont        assets\fonts\RetroGaming.ttf
+Font      mainMenuFont     assets\fonts\mainMenuFont.ttf
